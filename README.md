@@ -1,6 +1,6 @@
 # Nerf Parkour
 
-[![Tested with A20.4 b42](https://img.shields.io/badge/A20.4%20b42-tested-blue.svg)](https://7daystodie.com/)
+[![Tested with A20.4 b42](https://img.shields.io/badge/A20.4%20b42-tested-blue.svg)](https://7daystodie.com/) [![Automated Release](https://github.com/fatal-expedition/nerf-parkour/actions/workflows/main.yml/badge.svg)](https://github.com/fatal-expedition/nerf-parkour/actions/workflows/main.yml)
 
 7 Days to Die Modlet: Remove boosted jump height for Parkour perk
 
