@@ -6,8 +6,8 @@
 
 ## Features
 
-- Remove extra jump height from Parkour skill
-- Call out the adjustment made within the perk so players are aware before dumping points into its skills
+- Remove extra jump height from Parkour skills
+- Make adjustment clear to players so they are aware
 
 ## Purpose
 

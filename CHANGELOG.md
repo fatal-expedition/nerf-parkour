@@ -7,4 +7,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2022-05-04
 
-- initial release
+- Remove extra jump height from Parkour skills
+- Make adjustment clear to players so they are aware
