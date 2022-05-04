@@ -1,0 +1,9 @@
+﻿<xml>
+    <ModInfo>
+        <Name value="Nerf Parkour" />
+        <Description value="Remove boosted jump height for Parkour perk" />
+        <Author value="Jonathan Robertson (Kanaverum)" />
+        <Version value="1.0.0" />
+        <Website value="https://github.com/fatal-expedition/nerf-parkour" />
+    </ModInfo>
+</xml>

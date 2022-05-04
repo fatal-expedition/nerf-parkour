@@ -1,0 +1,10 @@
+Key,File,Type,english
+
+perkParkourDesc,progression,perk Agi,"Specialize in controlled falls getting anywhere you want to go, no matter how far down that may be.\n\n[FF8000][MOD] This perk no longer boosts jump height."
+perkParkourName,progression,perk Agi,Parkour [FF8000][MOD]
+
+perkParkourRank2Desc,progression,perk Agi,Stuntman [FF8000][MOD]
+perkParkourRank2LongDesc,progression,perk Agi,"You've pulled off some stunts, but sometimes your hospital bills are larger than your paycheck. Reduce stamina cost of jumping by 20%. Increase safe fall distance by 2 meters.\n\n[FF8000][MOD] No longer increase jump height by 1 meter."
+
+perkParkourRank4Desc,progression,perk Agi,Parkour Master [FF8000][MOD]
+perkParkourRank4LongDesc,progression,perk Agi,"You are now a parkour master and can navigate difficult situations easily. Reduce stamina cost of jumping by 40%. Increase safe fall distance by 5 meters and never get a sprained or broken leg when falling.\n\n[FF8000][MOD] No longer increase jump height by 2 meters."
